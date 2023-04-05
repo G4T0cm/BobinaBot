@@ -31,7 +31,7 @@ async def on_message(message):
         elif message.content.startswith('&hola'):
                         await message.channel.send('Hola que tal soy un bot bien pocho, pero mas pocho eres tu que lees esto')
         elif message.content.startswith('&login'):
-                        await message.channel.send('Gato bobo, aqui tienes el login para controlarme :flushed: https://portal.daki.cc/server/3fa22bc2')
+                        await message.channel.send('Gato bobo, aqui tienes el login para controlarme :flushed: link borrau porque es confidencial y tal')
                         
         elif message.content.startswith('&test'):
                         await message.channel.send("""A ver si esto salta de 
