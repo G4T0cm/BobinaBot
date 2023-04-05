@@ -15,7 +15,7 @@ from discord.ext import commands
 #Los requisitos te los encuentras tu solito
 
 TOKEN = "pon tu token aqui crack"
-
+#no se ni pa que es esto, pero borra y cagaste
 intents = discord.Intents.default()
 intents.message_content = True
 
